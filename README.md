@@ -1,3 +1,4 @@
+![logo](https://github.com/Shyam-tripathi721/Shyam-tripathi721/blob/main/github.jpg)
 <h1 align="center">Hi 👋, I'm Shyam Tripathi</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 

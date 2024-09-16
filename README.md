@@ -1,4 +1,6 @@
+
 ![logo](https://github.com/Shyam-tripathi721/Shyam-tripathi721/blob/main/github%20(2).jpg)
+
 <h1 align="center">Hi 👋, I'm Shyam Tripathi</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
@@ -6,7 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam-tripathi721&label=Profile%20views&color=0e75b6&style=flat" alt="shyam-tripathi721" /> </p>
 
+- 🌱 I’m currently learning **python**
+
+- 💬 Ask me about **SQL,Power Bi,excel**
+
 - 📫 How to reach me **shyammohantripathi997@gmail.com**
+
+- 📄 Know about my experiences [file:///C:/Users/shyam/OneDrive/Desktop/Shyam%20Resume.pdf](file:///C:/Users/shyam/OneDrive/Desktop/Shyam%20Resume.pdf)
 
 - ⚡ Fun fact **I am funny**
 
@@ -27,4 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyam-tripathi721&show_icons=true&locale=en" alt="shyam-tripathi721" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-tripathi721&" alt="shyam-tripathi721" /></p>
+
 
